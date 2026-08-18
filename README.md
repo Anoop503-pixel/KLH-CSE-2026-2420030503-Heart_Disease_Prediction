@@ -136,8 +136,7 @@ framework.
 
 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Anoop503-pixel/KLH-CSE-2026-2420030503-Heart_Disease_Prediction
 
 2. Create a virtual environment (recommended)
 
